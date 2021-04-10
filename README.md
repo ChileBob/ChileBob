@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChileBob 
 
 - 📫 How to reach me ... 
-Drag a large banner with my name on behind a light aircraft & fly around the South American coastline.
+Drag a large banner with my name on behind a light aircraft around the South American coastline.
 (Put your email address on the banner)
 
 <!---
