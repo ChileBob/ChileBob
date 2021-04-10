@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @ChileBob 
-
 - 📫 How to reach me :- 
   - Drag a banner with my name on behind a light aircraft around the South American coastline.
   - Don't forget to put your email address on the banner.
