@@ -1,6 +1,6 @@
 - 📫 How to reach me :- 
-  - Drag a banner with my name on behind a light aircraft around the South American coastline.
-  - Don't forget to put your email address on the banner.
+  - Write your email address on a very large banner.
+  - Drag the banner behind a light aircraft around the South American coastline.
 
 <!---
 ChileBob/ChileBob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
