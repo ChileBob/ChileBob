@@ -1,6 +1,6 @@
 - 📫 How to reach me :- 
   - Write your email address on a very large banner.
-  - Drag the banner behind a light aircraft around the South American coastline.
+  - Drag the banner behind an aircraft around the South American coastline.
   - Best to do this during the day.
 
 <!---
